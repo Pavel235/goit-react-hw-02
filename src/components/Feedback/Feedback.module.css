@@ -1,0 +1,9 @@
+.feedbackList {
+  text-align: left;
+}
+
+.feedbackText {
+  color: black;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+}

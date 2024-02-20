@@ -1,0 +1,14 @@
+.mainContent {
+  text-align: left;
+}
+
+.mainTitle {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+.mainText {
+  color: black;
+  font-size: 18px;
+  font-family: "Montserrat", sans-serif;
+}
